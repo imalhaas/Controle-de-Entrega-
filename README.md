@@ -1,5 +1,5 @@
 # AlgaLog
- Projeto de APi Rest - AlgaWorks
+ Projeto Api Rest - AlgaWorks
  
  Aplicação de controle para entrega de pedidos utilizando...
  
